@@ -52,7 +52,7 @@
   },
   "homepage": "https://github.com/jayphelps/core-decorators.js",
   "devDependencies": {
-    "@types/chai": "^3.5.2",
+    "@types/chai": "^4.2.13",
     "@types/mocha": "^2.2.41",
     "@types/node": "^6.0.73",
     "babel-cli": "^6.24.0",
